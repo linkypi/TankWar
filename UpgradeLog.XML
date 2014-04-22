@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TankWar">
+</Property><Property Name="解决方案文件" Value="H:\Learning\天软.NET培训\项目\TankWar\TankWar.sln">
+</Property><Property Name="用户选项文件" Value="H:\Learning\天软.NET培训\项目\TankWar\TankWar.suo">
+</Property><Property Name="Date" Value="2014年3月4日">
+</Property><Property Name="Time" Value="21:24">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TankWar.sln" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TankWar.suo" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.suo">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\TankWar.Library.csproj" Description="项目文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\TankWar.Library.csproj">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\MapSystem\Cell.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\MapSystem\Cell.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\MapSystem\Map.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\MapSystem\Map.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\MapSystem\Tile.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\MapSystem\Tile.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\MapSystem\TileAttribute.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\MapSystem\TileAttribute.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\Properties\AssemblyInfo.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\SpriteSystem\Bullet.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\SpriteSystem\Bullet.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\SpriteSystem\ETank.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\SpriteSystem\ETank.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\SpriteSystem\ETankManager.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\SpriteSystem\ETankManager.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\SpriteSystem\Explosion.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\SpriteSystem\Explosion.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\SpriteSystem\GameMsg.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\SpriteSystem\GameMsg.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\SpriteSystem\MyTank.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\SpriteSystem\MyTank.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\SpriteSystem\Sprite.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\SpriteSystem\Sprite.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\SpriteSystem\Star.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\SpriteSystem\Star.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\SpriteSystem\Tank.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Library\SpriteSystem\Tank.cs">
+</Event><Event ErrorLevel="1" Project="TankWar.Library" Source="TankWar.Library\TankWar.Library.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\TankWar.Library.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="TankWar.Library" Source="TankWar.Library\TankWar.Library.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TankWar.MapEditor" Source="TankWar.MapEditor\TankWar.MapEditor.csproj" Description="项目文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.MapEditor\TankWar.MapEditor.csproj">
+</Event><Event ErrorLevel="0" Project="TankWar.MapEditor" Source="TankWar.MapEditor\MapForm.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.MapEditor\MapForm.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.MapEditor" Source="TankWar.MapEditor\MapForm.Designer.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.MapEditor\MapForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.MapEditor" Source="TankWar.MapEditor\Program.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.MapEditor\Program.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.MapEditor" Source="TankWar.MapEditor\Properties\AssemblyInfo.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.MapEditor\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.MapEditor" Source="TankWar.MapEditor\Properties\Resources.Designer.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.MapEditor\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.MapEditor" Source="TankWar.MapEditor\Properties\Settings.Designer.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.MapEditor\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.MapEditor" Source="TankWar.MapEditor\Properties\Settings.settings" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.MapEditor\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TankWar.MapEditor" Source="TankWar.MapEditor\MapForm.resx" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.MapEditor\MapForm.resx">
+</Event><Event ErrorLevel="0" Project="TankWar.MapEditor" Source="TankWar.MapEditor\Properties\Resources.resx" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.MapEditor\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="TankWar.MapEditor" Source="TankWar.MapEditor\TankWar.MapEditor.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="TankWar.MapEditor" Source="TankWar.MapEditor\TankWar.MapEditor.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="TankWar.MapEditor" Source="TankWar.MapEditor\TankWar.MapEditor.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TankWar.Game" Source="TankWar.Game\TankWar.Game.csproj" Description="项目文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Game\TankWar.Game.csproj">
+</Event><Event ErrorLevel="0" Project="TankWar.Game" Source="TankWar.Game\GameForm.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Game\GameForm.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Game" Source="TankWar.Game\GameForm.Designer.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Game\GameForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Game" Source="TankWar.Game\Program.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Game\Program.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Game" Source="TankWar.Game\Properties\AssemblyInfo.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Game\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Game" Source="TankWar.Game\Properties\Resources.Designer.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Game\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Game" Source="TankWar.Game\Properties\Settings.Designer.cs" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Game\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TankWar.Game" Source="TankWar.Game\Properties\Settings.settings" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Game\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TankWar.Game" Source="TankWar.Game\GameForm.resx" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Game\GameForm.resx">
+</Event><Event ErrorLevel="0" Project="TankWar.Game" Source="TankWar.Game\Properties\Resources.resx" Description="文件已成功备份为 H:\Learning\天软.NET培训\项目\TankWar\Backup\TankWar.Game\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="TankWar.Game" Source="TankWar.Game\TankWar.Game.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="TankWar.Game" Source="TankWar.Game\TankWar.Game.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="TankWar.Game" Source="TankWar.Game\TankWar.Game.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TankWar.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="TankWar.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TankWar.Library" Source="TankWar.Library\TankWar.Library.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="TankWar.MapEditor" Source="TankWar.MapEditor\TankWar.MapEditor.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="TankWar.Game" Source="TankWar.Game\TankWar.Game.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
